@@ -1,1 +1,16 @@
 python manage.py runserver 0.0.0.0:8000
+
+Responsive Grid Row {
+	Column1{
+		Card{
+			Button link
+	Column2{
+		Text
+	Column3{
+		Google Map
+}
+
+http://34.124.232.7:8000/pupuk-phonska-produsen-pemda/
+http://34.124.232.7:8000/pupuk-phonska-pemda-koperasi/
+http://34.124.232.7:8000/pupuk-phonska-koperasi-petani/
+http://34.124.232.7:8000/tomat-petani-retail/
