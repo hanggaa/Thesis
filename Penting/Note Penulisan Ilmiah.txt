@@ -1,0 +1,14 @@
+Halaman Sampul V
+Halaman Judul V
+Halaman Pernyataan orisinalitas V
+Halaman Pengesahan V
+Kata Pengantar V
+Halaman Pernyataan Persetujuan Publikasi X
+Abstrak Indonesia (Mulai Tulisan Universitas Trisakti menggunakan Times New Roman 10pt dan rata kanan (align text right).
+Abstrak Inggris Vi
+Daftar Isi Vii
+Daftar Gambar X
+Daftar Tabel Xii
+
+2,5 tepi bawah
+1,5 tepi atas
