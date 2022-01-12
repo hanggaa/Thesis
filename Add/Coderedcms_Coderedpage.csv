@@ -1,0 +1,5 @@
+page_ptr_id,index_show_subpages,index_order_by,index_num_per_page,custom_template,struct_org_type,struct_org_name,struct_org_phone,struct_org_address_street,struct_org_address_locality,struct_org_address_region,struct_org_address_postal,struct_org_address_country,struct_org_geo_lat,struct_org_geo_lng,struct_org_hours,struct_org_actions,struct_org_extra_json,cover_image_id,og_image_id,struct_org_image_id,struct_org_logo_id,content_walls,canonical_url,index_order_by_classifier_id
+3,0,,10,coderedcms/pages/home_page.html,,,,,,,,,,,[],[],,,,,,[],,
+10,0,,10,coderedcms/pages/web_page_notitle.html,,,,,,,,,,,[],[],,,,,,[],,
+11,0,,10,coderedcms/pages/web_page_notitle.html,,,,,,,,,,,[],[],,,,,,[],,
+12,0,,10,coderedcms/pages/web_page_notitle.html,,,,,,,,,,,[],[],,,,,,[],,

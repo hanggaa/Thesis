@@ -20,9 +20,9 @@ http://34.124.232.7:8000/ayam-produsen-retail/
 http://34.124.232.7:8000/ayam-fiesta-retail-restoran/
 
 Ayam Jawa
-http://34.124.232.7:8000/ayam-peternak-penjagal/
-http://34.124.232.7:8000/ayam-jawa-penjagal-retail/
-http://34.124.232.7:8000/ayam-jawa-retail-restoran/
+http://34.124.215.150:8000/ayam-peternak-penjagal/
+http://34.124.215.150:8000/ayam-jawa-penjagal-retail/
+http://34.124.215.150:8000/ayam-jawa-retail-restoran/
 
 
 

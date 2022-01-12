@@ -1,0 +1,264 @@
+id,content_type_id,codename,name
+1,2,add_image,Can add image
+2,2,change_image,Can change image
+3,2,delete_image,Can delete image
+4,2,choose_image,Can choose image
+5,3,access_admin,Can access Wagtail admin
+6,5,add_document,Can add document
+7,5,change_document,Can change document
+8,5,delete_document,Can delete document
+9,5,choose_document,Can choose document
+10,7,add_articleindexpage,Can add Article Landing Page
+11,7,change_articleindexpage,Can change Article Landing Page
+12,7,delete_articleindexpage,Can delete Article Landing Page
+13,7,view_articleindexpage,Can view Article Landing Page
+14,8,add_formpage,Can add Form
+15,8,change_formpage,Can change Form
+16,8,delete_formpage,Can delete Form
+17,8,view_formpage,Can view Form
+18,6,add_webpage,Can add Web Page
+19,6,change_webpage,Can change Web Page
+20,6,delete_webpage,Can delete Web Page
+21,6,view_webpage,Can view Web Page
+22,9,add_formpagefield,Can add form page field
+23,9,change_formpagefield,Can change form page field
+24,9,delete_formpagefield,Can delete form page field
+25,9,view_formpagefield,Can view form page field
+26,10,add_formconfirmemail,Can add CodeRed Email
+27,10,change_formconfirmemail,Can change CodeRed Email
+28,10,delete_formconfirmemail,Can delete CodeRed Email
+29,10,view_formconfirmemail,Can view CodeRed Email
+30,11,add_articlepage,Can add Article
+31,11,change_articlepage,Can change Article
+32,11,delete_articlepage,Can delete Article
+33,11,view_articlepage,Can view Article
+34,12,add_adasettings,Can add Accessibility
+35,12,change_adasettings,Can change Accessibility
+36,12,delete_adasettings,Can delete Accessibility
+37,12,view_adasettings,Can view Accessibility
+38,13,add_analyticssettings,Can add Tracking
+39,13,change_analyticssettings,Can change Tracking
+40,13,delete_analyticssettings,Can delete Tracking
+41,13,view_analyticssettings,Can view Tracking
+42,14,add_carousel,Can add Carousel
+43,14,change_carousel,Can change Carousel
+44,14,delete_carousel,Can delete Carousel
+45,14,view_carousel,Can view Carousel
+46,15,add_carouselslide,Can add Carousel Slide
+47,15,change_carouselslide,Can change Carousel Slide
+48,15,delete_carouselslide,Can delete Carousel Slide
+49,15,view_carouselslide,Can view Carousel Slide
+50,16,add_coderedpage,Can add CodeRed Page
+51,16,change_coderedpage,Can change CodeRed Page
+52,16,delete_coderedpage,Can delete CodeRed Page
+53,16,view_coderedpage,Can view CodeRed Page
+54,17,add_footer,Can add Footer
+55,17,change_footer,Can change Footer
+56,17,delete_footer,Can delete Footer
+57,17,view_footer,Can view Footer
+58,18,add_generalsettings,Can add General
+59,18,change_generalsettings,Can change General
+60,18,delete_generalsettings,Can delete General
+61,18,view_generalsettings,Can view General
+62,19,add_layoutsettings,Can add Layout
+63,19,change_layoutsettings,Can change Layout
+64,19,delete_layoutsettings,Can delete Layout
+65,19,view_layoutsettings,Can view Layout
+66,20,add_navbar,Can add Navigation Bar
+67,20,change_navbar,Can change Navigation Bar
+68,20,delete_navbar,Can delete Navigation Bar
+69,20,view_navbar,Can view Navigation Bar
+70,21,add_socialmediasettings,Can add Social Media
+71,21,change_socialmediasettings,Can change Social Media
+72,21,delete_socialmediasettings,Can delete Social Media
+73,21,view_socialmediasettings,Can view Social Media
+74,22,add_contentwall,Can add Content Wall
+75,22,change_contentwall,Can change Content Wall
+76,22,delete_contentwall,Can delete Content Wall
+77,22,view_contentwall,Can view Content Wall
+78,23,add_reusablecontent,Can add Reusable Content
+79,23,change_reusablecontent,Can change Reusable Content
+80,23,delete_reusablecontent,Can delete Reusable Content
+81,23,view_reusablecontent,Can view Reusable Content
+82,24,add_googleapisettings,Can add Google API
+83,24,change_googleapisettings,Can change Google API
+84,24,delete_googleapisettings,Can delete Google API
+85,24,view_googleapisettings,Can view Google API
+86,25,add_coderedtag,Can add CodeRed Tag
+87,25,change_coderedtag,Can change CodeRed Tag
+88,25,delete_coderedtag,Can delete CodeRed Tag
+89,25,view_coderedtag,Can view CodeRed Tag
+90,26,add_mailchimpapisettings,Can add Mailchimp API
+91,26,change_mailchimpapisettings,Can change Mailchimp API
+92,26,delete_mailchimpapisettings,Can delete Mailchimp API
+93,26,view_mailchimpapisettings,Can view Mailchimp API
+94,27,add_classifier,Can add Classifier
+95,27,change_classifier,Can change Classifier
+96,27,delete_classifier,Can delete Classifier
+97,27,view_classifier,Can view Classifier
+98,28,add_classifierterm,Can add Classifier Term
+99,28,change_classifierterm,Can change Classifier Term
+100,28,delete_classifierterm,Can delete Classifier Term
+101,28,view_classifierterm,Can view Classifier Term
+102,29,add_coderedsubmissionrevision,Can add codered submission revision
+103,29,change_coderedsubmissionrevision,Can change codered submission revision
+104,29,delete_coderedsubmissionrevision,Can delete codered submission revision
+105,29,view_coderedsubmissionrevision,Can view codered submission revision
+106,30,add_coderedsessionformsubmission,Can add form submission
+107,30,change_coderedsessionformsubmission,Can change form submission
+108,30,delete_coderedsessionformsubmission,Can delete form submission
+109,30,view_coderedsessionformsubmission,Can view form submission
+110,31,add_tag,Can add tag
+111,31,change_tag,Can change tag
+112,31,delete_tag,Can delete tag
+113,31,view_tag,Can view tag
+114,32,add_taggeditem,Can add tagged item
+115,32,change_taggeditem,Can change tagged item
+116,32,delete_taggeditem,Can delete tagged item
+117,32,view_taggeditem,Can view tagged item
+118,33,add_seosettings,Can add SEO
+119,33,change_seosettings,Can change SEO
+120,33,delete_seosettings,Can delete SEO
+121,33,view_seosettings,Can view SEO
+122,34,add_formsubmission,Can add form submission
+123,34,change_formsubmission,Can change form submission
+124,34,delete_formsubmission,Can delete form submission
+125,34,view_formsubmission,Can view form submission
+126,35,add_redirect,Can add redirect
+127,35,change_redirect,Can change redirect
+128,35,delete_redirect,Can delete redirect
+129,35,view_redirect,Can view redirect
+130,36,add_embed,Can add embed
+131,36,change_embed,Can change embed
+132,36,delete_embed,Can delete embed
+133,36,view_embed,Can view embed
+134,37,add_userprofile,Can add user profile
+135,37,change_userprofile,Can change user profile
+136,37,delete_userprofile,Can delete user profile
+137,37,view_userprofile,Can view user profile
+138,5,view_document,Can view document
+139,38,add_uploadeddocument,Can add uploaded document
+140,38,change_uploadeddocument,Can change uploaded document
+141,38,delete_uploadeddocument,Can delete uploaded document
+142,38,view_uploadeddocument,Can view uploaded document
+143,2,view_image,Can view image
+144,39,add_rendition,Can add rendition
+145,39,change_rendition,Can change rendition
+146,39,delete_rendition,Can delete rendition
+147,39,view_rendition,Can view rendition
+148,40,add_uploadedimage,Can add uploaded image
+149,40,change_uploadedimage,Can change uploaded image
+150,40,delete_uploadedimage,Can delete uploaded image
+151,40,view_uploadedimage,Can view uploaded image
+152,41,add_query,Can add query
+153,41,change_query,Can change query
+154,41,delete_query,Can delete query
+155,41,view_query,Can view query
+156,42,add_querydailyhits,Can add Query Daily Hits
+157,42,change_querydailyhits,Can change Query Daily Hits
+158,42,delete_querydailyhits,Can delete Query Daily Hits
+159,42,view_querydailyhits,Can view Query Daily Hits
+160,1,add_page,Can add page
+161,1,change_page,Can change page
+162,1,delete_page,Can delete page
+163,1,view_page,Can view page
+164,43,add_grouppagepermission,Can add group page permission
+165,43,change_grouppagepermission,Can change group page permission
+166,43,delete_grouppagepermission,Can delete group page permission
+167,43,view_grouppagepermission,Can view group page permission
+168,44,add_pagerevision,Can add page revision
+169,44,change_pagerevision,Can change page revision
+170,44,delete_pagerevision,Can delete page revision
+171,44,view_pagerevision,Can view page revision
+172,45,add_pageviewrestriction,Can add page view restriction
+173,45,change_pageviewrestriction,Can change page view restriction
+174,45,delete_pageviewrestriction,Can delete page view restriction
+175,45,view_pageviewrestriction,Can view page view restriction
+176,46,add_site,Can add site
+177,46,change_site,Can change site
+178,46,delete_site,Can delete site
+179,46,view_site,Can view site
+180,47,add_collection,Can add collection
+181,47,change_collection,Can change collection
+182,47,delete_collection,Can delete collection
+183,47,view_collection,Can view collection
+184,48,add_groupcollectionpermission,Can add group collection permission
+185,48,change_groupcollectionpermission,Can change group collection permission
+186,48,delete_groupcollectionpermission,Can delete group collection permission
+187,48,view_groupcollectionpermission,Can view group collection permission
+188,49,add_collectionviewrestriction,Can add collection view restriction
+189,49,change_collectionviewrestriction,Can change collection view restriction
+190,49,delete_collectionviewrestriction,Can delete collection view restriction
+191,49,view_collectionviewrestriction,Can view collection view restriction
+192,50,add_task,Can add task
+193,50,change_task,Can change task
+194,50,delete_task,Can delete task
+195,50,view_task,Can view task
+196,51,add_taskstate,Can add Task state
+197,51,change_taskstate,Can change Task state
+198,51,delete_taskstate,Can delete Task state
+199,51,view_taskstate,Can view Task state
+200,52,add_workflow,Can add workflow
+201,52,change_workflow,Can change workflow
+202,52,delete_workflow,Can delete workflow
+203,52,view_workflow,Can view workflow
+204,4,add_groupapprovaltask,Can add Group approval task
+205,4,change_groupapprovaltask,Can change Group approval task
+206,4,delete_groupapprovaltask,Can delete Group approval task
+207,4,view_groupapprovaltask,Can view Group approval task
+208,53,add_workflowstate,Can add Workflow state
+209,53,change_workflowstate,Can change Workflow state
+210,53,delete_workflowstate,Can delete Workflow state
+211,53,view_workflowstate,Can view Workflow state
+212,54,add_workflowpage,Can add workflow page
+213,54,change_workflowpage,Can change workflow page
+214,54,delete_workflowpage,Can delete workflow page
+215,54,view_workflowpage,Can view workflow page
+216,55,add_workflowtask,Can add workflow task order
+217,55,change_workflowtask,Can change workflow task order
+218,55,delete_workflowtask,Can delete workflow task order
+219,55,view_workflowtask,Can view workflow task order
+220,56,add_pagelogentry,Can add page log entry
+221,56,change_pagelogentry,Can change page log entry
+222,56,delete_pagelogentry,Can delete page log entry
+223,56,view_pagelogentry,Can view page log entry
+224,57,add_locale,Can add locale
+225,57,change_locale,Can change locale
+226,57,delete_locale,Can delete locale
+227,57,view_locale,Can view locale
+228,58,add_comment,Can add comment
+229,58,change_comment,Can change comment
+230,58,delete_comment,Can delete comment
+231,58,view_comment,Can view comment
+232,59,add_commentreply,Can add comment reply
+233,59,change_commentreply,Can change comment reply
+234,59,delete_commentreply,Can delete comment reply
+235,59,view_commentreply,Can view comment reply
+236,60,add_pagesubscription,Can add page subscription
+237,60,change_pagesubscription,Can change page subscription
+238,60,delete_pagesubscription,Can delete page subscription
+239,60,view_pagesubscription,Can view page subscription
+240,61,add_logentry,Can add log entry
+241,61,change_logentry,Can change log entry
+242,61,delete_logentry,Can delete log entry
+243,61,view_logentry,Can view log entry
+244,62,add_permission,Can add permission
+245,62,change_permission,Can change permission
+246,62,delete_permission,Can delete permission
+247,62,view_permission,Can view permission
+248,63,add_group,Can add group
+249,63,change_group,Can change group
+250,63,delete_group,Can delete group
+251,63,view_group,Can view group
+252,64,add_user,Can add user
+253,64,change_user,Can change user
+254,64,delete_user,Can delete user
+255,64,view_user,Can view user
+256,65,add_contenttype,Can add content type
+257,65,change_contenttype,Can change content type
+258,65,delete_contenttype,Can delete content type
+259,65,view_contenttype,Can view content type
+260,66,add_session,Can add session
+261,66,change_session,Can change session
+262,66,delete_session,Can delete session
+263,66,view_session,Can view session

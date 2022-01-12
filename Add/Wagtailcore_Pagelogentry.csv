@@ -1,0 +1,87 @@
+id,label,action,data_json,timestamp,content_changed,deleted,content_type_id,page_id,revision_id,user_id
+1,Iki Formulir,wagtail.create,"""""",2021-12-17 10:44:41.878985,1,0,8,4,,1
+2,Iki Formulir,wagtail.publish,null,2021-12-17 10:44:42.004003,1,0,8,4,1,1
+3,Home,wagtail.edit,"""""",2021-12-18 10:18:03.519219,1,0,6,3,2,1
+4,Home,wagtail.edit,"""""",2021-12-18 10:18:10.804515,1,0,6,3,3,1
+5,Home,wagtail.publish,null,2021-12-18 10:18:10.858685,0,0,6,3,3,1
+6,Iki Formulir,wagtail.delete,"""""",2021-12-18 10:46:13.297843,0,1,8,4,,1
+7,Artikel Utama,wagtail.create,"""""",2021-12-18 10:55:36.592886,1,0,7,5,,1
+8,Artikel Utama,wagtail.edit,"""""",2021-12-18 10:55:43.057562,1,0,7,5,5,1
+9,Artikel 1,wagtail.create,"""""",2021-12-18 11:00:00.716808,1,0,11,6,,1
+10,Artikel 1,wagtail.publish,null,2021-12-18 11:00:00.807388,1,0,11,6,6,1
+11,Artikel Utama,wagtail.edit,"""""",2021-12-18 11:00:09.988344,1,0,7,5,7,1
+12,Artikel Utama,wagtail.publish,null,2021-12-18 11:00:10.045164,0,0,7,5,7,1
+13,Artikel Utama,wagtail.edit,"""""",2021-12-18 11:01:08.359857,1,0,7,5,8,1
+14,Artikel Utama,wagtail.publish,null,2021-12-18 11:01:08.419385,0,0,7,5,8,1
+15,Artikel 2,wagtail.create,"""""",2021-12-18 11:04:42.574125,1,0,11,7,,1
+16,Artikel 2,wagtail.publish,null,2021-12-18 11:04:42.622734,1,0,11,7,9,1
+17,Artikel Utama,wagtail.edit,"""""",2021-12-18 11:07:14.607367,1,0,7,5,10,1
+18,Artikel Utama,wagtail.publish,null,2021-12-18 11:07:14.642291,1,0,7,5,10,1
+19,Halaman Web 1,wagtail.create,"""""",2021-12-18 14:51:46.805630,1,0,6,8,,1
+20,Halaman Web 1,wagtail.publish,null,2021-12-18 14:51:46.916069,1,0,6,8,11,1
+21,Halaman Web 2,wagtail.create,"""""",2021-12-18 15:26:23.826636,1,0,6,9,,1
+22,Halaman Web 2,wagtail.edit,"""""",2021-12-18 15:36:32.905492,1,0,6,9,13,1
+23,Halaman Web 2,wagtail.publish,null,2021-12-18 15:36:32.973092,1,0,6,9,13,1
+24,Halaman Web 2,wagtail.edit,"""""",2021-12-18 15:37:07.295479,1,0,6,9,14,1
+25,Halaman Web 2,wagtail.publish,null,2021-12-18 15:37:07.369482,1,0,6,9,14,1
+26,Halaman Web 2,wagtail.edit,"""""",2021-12-18 15:37:38.027449,1,0,6,9,15,1
+27,Halaman Web 2,wagtail.publish,null,2021-12-18 15:37:38.113466,1,0,6,9,15,1
+28,Halaman Web 2,wagtail.edit,"""""",2021-12-18 15:41:39.302616,1,0,6,9,16,1
+29,Halaman Web 2,wagtail.publish,null,2021-12-18 15:41:39.370621,1,0,6,9,16,1
+30,Halaman Web 2,wagtail.edit,"""""",2021-12-18 15:44:35.315135,1,0,6,9,17,1
+31,Home,wagtail.edit,"""""",2021-12-18 15:45:32.194610,1,0,6,3,18,1
+32,Home,wagtail.publish,null,2021-12-18 15:45:32.250625,1,0,6,3,18,1
+33,Halaman Web 2,wagtail.edit,"""""",2021-12-18 15:47:35.570672,1,0,6,9,19,1
+34,Halaman Web 2,wagtail.publish,null,2021-12-18 15:47:35.635100,1,0,6,9,19,1
+35,Halaman Web 2,wagtail.edit,"""""",2021-12-18 15:48:47.445045,1,0,6,9,20,1
+36,Halaman Web 2,wagtail.publish,null,2021-12-18 15:48:47.520417,1,0,6,9,20,1
+37,Halaman Web 2,wagtail.edit,"""""",2021-12-18 19:19:59.378258,1,0,6,9,21,1
+38,Halaman Web 2,wagtail.publish,null,2021-12-18 19:19:59.474267,1,0,6,9,21,1
+39,Halaman Web 2,wagtail.edit,"""""",2021-12-18 19:20:18.793937,1,0,6,9,22,1
+40,Halaman Web 2,wagtail.publish,null,2021-12-18 19:20:18.881946,1,0,6,9,22,1
+41,Halaman Web 2,wagtail.edit,"""""",2021-12-18 19:28:31.963121,1,0,6,9,23,1
+42,Halaman Web 2,wagtail.publish,null,2021-12-18 19:28:32.027107,1,0,6,9,23,1
+43,Halaman Web 2,wagtail.edit,"""""",2021-12-18 19:30:07.211653,1,0,6,9,24,1
+44,Halaman Web 2,wagtail.publish,null,2021-12-18 19:30:07.275671,1,0,6,9,24,1
+45,Halaman Web 2,wagtail.edit,"""""",2021-12-18 19:32:33.589274,1,0,6,9,25,1
+46,Halaman Web 2,wagtail.publish,null,2021-12-18 19:32:33.661271,1,0,6,9,25,1
+47,Halaman Web 2,wagtail.edit,"""""",2021-12-18 19:36:58.293134,1,0,6,9,26,1
+48,Halaman Web 2,wagtail.publish,null,2021-12-18 19:36:58.373157,1,0,6,9,26,1
+49,Halaman Web 2,wagtail.edit,"""""",2021-12-18 19:37:46.897920,1,0,6,9,27,1
+50,Halaman Web 2,wagtail.publish,null,2021-12-18 19:37:46.969937,1,0,6,9,27,1
+51,Halaman Web 2,wagtail.edit,"""""",2021-12-18 19:40:53.864297,1,0,6,9,28,1
+52,Halaman Web 2,wagtail.publish,null,2021-12-18 19:40:53.936307,1,0,6,9,28,1
+53,Halaman Web 2,wagtail.edit,"""""",2021-12-18 19:42:18.120423,1,0,6,9,29,1
+54,Halaman Web 2,wagtail.publish,null,2021-12-18 19:42:18.192431,1,0,6,9,29,1
+55,Pemda,wagtail.edit,"""""",2021-12-18 19:44:35.864455,1,0,6,9,30,1
+56,Pemda,wagtail.rename,"{""title"": {""old"": ""Halaman Web 2"", ""new"": ""Pemda""}}",2021-12-18 19:44:35.952464,0,0,6,9,30,1
+57,Pemda,wagtail.publish,"{""title"": {""old"": ""Halaman Web 2"", ""new"": ""Pemda""}}",2021-12-18 19:44:35.960468,1,0,6,9,30,1
+58,Pemda,wagtail.edit,"""""",2021-12-18 19:48:47.041705,1,0,6,9,31,1
+59,Pemda,wagtail.publish,null,2021-12-18 19:48:47.105710,1,0,6,9,31,1
+60,#,wagtail.edit,"""""",2021-12-18 19:50:58.048168,1,0,6,9,32,1
+61,#,wagtail.rename,"{""title"": {""old"": ""Pemda"", ""new"": ""#""}}",2021-12-18 19:50:58.120176,0,0,6,9,32,1
+62,#,wagtail.publish,"{""title"": {""old"": ""Pemda"", ""new"": ""#""}}",2021-12-18 19:50:58.128177,1,0,6,9,32,1
+63,#,wagtail.edit,"""""",2021-12-18 19:53:08.116209,1,0,6,9,33,1
+64,#,wagtail.publish,null,2021-12-18 19:53:08.188212,1,0,6,9,33,1
+65,Ayam Jawa Retail Restoran,wagtail.create,"""""",2022-01-12 09:59:34.974845,1,0,6,10,,3
+66,Ayam Jawa Retail Restoran,wagtail.publish,null,2022-01-12 09:59:35.035410,1,0,6,10,34,3
+67,Ayam Jawa Retail Restoran,wagtail.edit,"""""",2022-01-12 09:59:48.007532,1,0,6,10,35,3
+68,Ayam Jawa Retail Restoran,wagtail.publish,null,2022-01-12 09:59:48.041540,1,0,6,10,35,3
+69,Ayam Jawa Penjagal Retail,wagtail.create,"""""",2022-01-12 10:13:49.063807,1,0,6,11,,3
+70,Ayam Jawa Penjagal Retail,wagtail.publish,null,2022-01-12 10:13:49.115616,1,0,6,11,36,3
+71,Ayam Jawa Peternak Penjagal,wagtail.edit,"""""",2022-01-12 10:15:59.644933,1,0,6,11,37,3
+72,Ayam Jawa Peternak Penjagal,wagtail.rename,"{""title"": {""old"": ""Ayam Jawa Penjagal Retail"", ""new"": ""Ayam Jawa Peternak Penjagal""}}",2022-01-12 10:15:59.681588,0,0,6,11,37,3
+73,Ayam Jawa Peternak Penjagal,wagtail.publish,"{""title"": {""old"": ""Ayam Jawa Penjagal Retail"", ""new"": ""Ayam Jawa Peternak Penjagal""}}",2022-01-12 10:15:59.685683,1,0,6,11,37,3
+74,Ayam Jawa Peternak Penjagal,wagtail.edit,"""""",2022-01-12 10:16:24.824853,1,0,6,11,38,3
+75,Ayam Jawa Peternak Penjagal,wagtail.publish,null,2022-01-12 10:16:24.867863,1,0,6,11,38,3
+76,Ayam Jawa Penjagal Retail,wagtail.create,"""""",2022-01-12 10:25:06.931115,1,0,6,12,,3
+77,Ayam Jawa Penjagal Retail,wagtail.publish,null,2022-01-12 10:25:06.979604,1,0,6,12,39,3
+78,Ayam Jawa Penjagal Retail,wagtail.edit,"""""",2022-01-12 10:25:25.265662,1,0,6,12,40,3
+79,Ayam Jawa Penjagal Retail,wagtail.publish,null,2022-01-12 10:25:25.303313,1,0,6,12,40,3
+80,Ayam Jawa Retail Restoran,wagtail.edit,"""""",2022-01-12 10:26:16.919610,1,0,6,10,41,3
+81,Ayam Jawa Retail Restoran,wagtail.publish,null,2022-01-12 10:26:16.958618,1,0,6,10,41,3
+82,#,wagtail.delete,"""""",2022-01-12 10:31:07.947697,0,1,6,9,,3
+83,Halaman Web 1,wagtail.delete,"""""",2022-01-12 10:31:14.482744,0,1,6,8,,3
+84,Artikel 1,wagtail.delete,"""""",2022-01-12 10:31:18.566767,0,1,11,6,,3
+85,Artikel 2,wagtail.delete,"""""",2022-01-12 10:31:18.579800,0,1,11,7,,3
+86,Artikel Utama,wagtail.delete,"""""",2022-01-12 10:31:18.582809,0,1,7,5,,3
