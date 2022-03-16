@@ -9,7 +9,6 @@ Penjagal = penjagal1.eth
 Peternak = peternak1.eth
 Ohkaeri.ID = ohkaeriid.eth
 
-
 Contract AGRIT = 0x5Fe335265b3AC515762F3C8AE405d9fb7F21C7E1
 Contract USAKTI = 0x8085004F3311CE52506722E7ABc0F895Dc35A190
 
