@@ -1,18 +1,28 @@
-Fiesta
-Peternak to Produsen: https://ropsten.etherscan.io/tx/0x58c3ca47a016af241222868762768d7e978dffcbdd343072156bf97c2981ca99
-Produsen to Retail: https://ropsten.etherscan.io/tx/0x29d5abb3047010e9ac45a55242b9b54bb36f4417d9181aaa774b0c961997c5ec
-Retail to Restoran: https://ropsten.etherscan.io/tx/0xcbe2c5f742792637fe9825f884c4b216c5a5a757e6dc7fdf4745456bbf2e5d5e
+HAJW
+Peternak to Produsen: https://ropsten.etherscan.io/tx/0x5e386a0c13911d33624b29fcea86089a73a204ee9cd16988e94d363179e8ddcf
+Peternak to Penjagal: https://ropsten.etherscan.io/tx/0x34fff3f3dba2eed645cd0a84ebd3ecf6300672949fe6868630df6b1c59b36ccd
+Penjagal to Retail: https://ropsten.etherscan.io/tx/0xd0bdc47e57c818bdf8c031ab59bc26d61dc87587059b63f6c07b003f705a1a26
+Produsen to Retail: https://ropsten.etherscan.io/tx/0x4dc0cc1418418bf94a56abc906572150190d324633984c37e7d1d787a500a5ec
+Retail to Okaeri: https://ropsten.etherscan.io/tx/0x83f76ef94300d125722f5c570dfdfc44f39f62d2227820cf730cfd54d5d5a625
 
-Ayam Jawa
-Peternak to Penjagal: https://ropsten.etherscan.io/tx/0x5b9ef37405832d7e258f59e09a47b102157575a70c7f01e65f1570e500ad8e89
-Penjagal to Retail: https://ropsten.etherscan.io/tx/0x48461e0e019392fff094e1f916f170518b31747dba6d8f8b23b36e3fc729ddfe
-Retail to Restoran: https://ropsten.etherscan.io/tx/0x521c4b3311fa9bac2fa087e897dcd48455ba62de7d62fc7080bc1a4ab8c6ae7e
 
 Peternak: https://ropsten.etherscan.io/address/0x56c576b23a8ffd60646607d596143e65ca6bebcd
 Penjagal: https://ropsten.etherscan.io/address/0xd0237b9bc305af5a7cf8edd1f15acea80b6d6457
 Produsen: https://ropsten.etherscan.io/address/0xf861bc58521ae0d96a38d3f984ff4dcf5f3514e4
 Retail: https://ropsten.etherscan.io/address/0x9e24a9c734ce0955b6856eaf1682afaaf4159308
 Restoran: https://ropsten.etherscan.io/address/0x599b91724a147ba773aa69de55da05fa204391c4
+
+HAJW Penjagal (Karaage Mentai)
+http://34.124.208.72:8000/hajw-peternak-penjagal/
+http://34.124.208.72:8000/hajw-penjagal-retail/
+http://34.124.208.72:8000/hajw-retail-okaeri/
+
+HAJW Produsen (Yakisoba)
+http://34.124.208.72:8000/hajw-peternak-produsen/
+http://34.124.208.72:8000/hajw-produsen-retail/
+http://34.124.208.72:8000/hajw-retail-okaeri-yakisoba/
+
+
 
 Fiesta
 http://34.124.232.7:8000/ayam-peternak-produsen/

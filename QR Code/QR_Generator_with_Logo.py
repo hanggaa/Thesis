@@ -8,7 +8,7 @@ ws.title('Hangga Generator')
 ws.geometry('600x400')
 ws.config(bg='#f25252')
 
-logo = PIL.Image.open('Nama.jpg')
+logo = PIL.Image.open('Logo.jpg')
 
 def generate_qr():
     global logo

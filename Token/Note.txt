@@ -3,11 +3,11 @@ Host = hanggahost.eth
 Koperasi = koperasi1.eth
 Pemda = pemda1.eth
 Petani = petani1.eth
-Retail = retail1.eth (X)
-Produsen = produsen1.eth
-Penjagal = penjagal1.eth
-Peternak = peternak1.eth
-Ohkaeri.ID = ohkaeriid.eth
+Retail = retail1.eth (X) 100
+Produsen = produsen1.eth 300
+Penjagal = penjagal1.eth 200
+Peternak = peternak1.eth 430
+Ohkaeri.ID = ohkaeriid.eth 50
 
 Goerli
 Produsen = produsenayam.eth

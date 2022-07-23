@@ -14,3 +14,5 @@ http://34.124.232.7:8000/pupuk-phonska-produsen-pemda/
 http://34.124.232.7:8000/pupuk-phonska-pemda-koperasi/
 http://34.124.232.7:8000/pupuk-phonska-koperasi-petani/
 http://34.124.232.7:8000/tomat-petani-retail/
+
+Deployment manager > Django Packaged by Bitnami > Setting TCP 8000 VPC > Install Wagtail
