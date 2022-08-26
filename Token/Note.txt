@@ -10,11 +10,11 @@ Peternak = peternak1.eth 430
 Ohkaeri.ID = ohkaeriid.eth 50
 
 Goerli
-Produsen = produsenayam.eth
-Peternak = peternakayam.eth
-Penjagal = penjagalayam.eth
-Retail = retailokaeri.eth
-Ohkaeri.ID = okaeri.eth
+Produsen = produsenayam.eth 0xF861Bc58521ae0D96a38D3f984FF4dCf5f3514E4
+Peternak = peternakayam.eth 0x56C576B23A8FFd60646607d596143E65ca6BeBcd
+Penjagal = penjagalayam.eth 0xD0237B9Bc305AF5a7cF8eDD1F15AceA80B6D6457
+Retail = retailokaeri.eth 0x9E24a9c734CE0955b6856eAf1682AFAaf4159308
+Ohkaeri.ID = okaeri.eth 0x599B91724a147BA773aa69dE55da05FA204391C4
 CJatim = cjatim.eth
 CBali = cbali.eth
 
