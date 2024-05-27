@@ -4,24 +4,24 @@ import PIL.Image
 from tkinter import *
 
 ws = Tk()
-ws.title('Hangga Generator')
+ws.title('Glemping Generator')
 ws.geometry('600x400')
 ws.config(bg='#f25252')
 
-logo = PIL.Image.open('Logo.jpg')
+logo = PIL.Image.open('AW.jpg')
 
 def generate_qr():
     global logo
     basic = 100
     width_percentage = (basic/float(logo.size[0]))
     height_size = int((float(logo.size[1])*float(width_percentage)))
-    logo = logo.resize((basic, height_size), PIL.Image.ANTIALIAS)
+    logo = logo.resize((basic, height_size), PIL.Image.LANCZOS)
     qrc = qrcode.QRCode(error_correction=qrcode.constants.ERROR_CORRECT_H)
 
     qrc.add_data(msg.get())
     qrc.make()
     gen_img = qrc.make_image(
-        fill_color='#4a7a8c', 
+        fill_color='#36004b', 
         bg_color="#fff"
         ).convert('RGBA')
 
